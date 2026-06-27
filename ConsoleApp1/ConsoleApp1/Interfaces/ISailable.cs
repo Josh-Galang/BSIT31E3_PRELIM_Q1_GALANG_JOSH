@@ -1,5 +1,6 @@
+﻿
 namespace TransportChallenge;
 
-public interface IDriveable
+public interface ISailable
 {
 }
